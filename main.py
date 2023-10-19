@@ -7,4 +7,4 @@ az eljárás kiírja a számokat ezen két paraméter között
 import ciklusok
 
 
-ciklusok.szamok(-10 , -1)
+ciklusok.szamok(-10 , 15)
